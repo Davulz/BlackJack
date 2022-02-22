@@ -1,0 +1,20 @@
+body {
+   
+    background-image: url("background.jpg");
+}
+
+h1 {
+    text-align: center;
+    font-size: 5rem;
+    color: rgb(1, 0, 44);
+    text-shadow: 3px 3px rgb(104, 93, 255);
+    
+}
+button{
+    border: solid rgb(104, 93, 255) 5px;
+    border-radius: 10px;
+    margin-bottom: 150px;
+    margin-left: 5px;
+    font-size: 1.5rem;
+    
+}
